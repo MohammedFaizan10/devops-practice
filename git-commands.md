@@ -39,9 +39,13 @@ git switch feature = comes to feature
 git rebase main = feature changes come top of main changes
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #more commands are their to come in future soon
 
 #Myname is Faizan
+=======
+#more commands are their to come in future soon and very soon
+>>>>>>> Stashed changes
 =======
 #more commands are their to come in future soon and very soon
 >>>>>>> Stashed changes
