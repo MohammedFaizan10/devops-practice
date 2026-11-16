@@ -36,4 +36,5 @@ git stash pop index-number
 git stash clear
 git cherry-pick <id>
 git switch feature
-git rebase main
+git rebase main = feature changes come top of main changes
+
