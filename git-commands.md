@@ -38,3 +38,5 @@ git cherry-pick <id> = always do form where you want changes
 git switch feature = comes to feature
 git rebase main = feature changes come top of main changes
 #more commands are their to come in future soon
+
+#Myname is Faizan
