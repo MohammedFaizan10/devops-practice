@@ -15,9 +15,9 @@ git checkout -b dev = create and switch to dev
 git checkout main = switches to main
 git switch main = switches to amin
 git merge dev = merges dev changes to main from main
-git reset <id> --soft
-git reset <id> = mixed
-git reset <id> --hard 
+git reset <id> --soft  = it will remain the commit in staged
+git reset <id> = mixed = it will remain the commits untracked
+git reset <id> --hard = it will remove commits hardly
 git rm --cached --filename
 git remote -v  
 git remote add origin <url>
