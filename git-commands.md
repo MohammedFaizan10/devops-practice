@@ -30,8 +30,8 @@ git revert <id>
 git revert --continue = continue the revert process
 git revert --abort = stops the revert process
 git stash
-git stash list
 git stash apply  = gives latest stash
+git stash list  = list all stashes
 git stash pop index-number = pops the specific stash
 git stash clear  = clears all stashes
 git cherry-pick <id> = always do form where you want changes
