@@ -34,7 +34,7 @@ git stash list
 git stash apply
 git stash pop index-number
 git stash clear  = clears all stashes
-git cherry-pick <id>
+git cherry-pick <id> = always do form where you want changes
 git switch feature
 git rebase main = feature changes come top of main changes
 
