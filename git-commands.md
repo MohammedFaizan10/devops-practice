@@ -27,8 +27,8 @@ git pull origin main
 git clone https
 git clone ssh
 git revert <id>
-git revert --continue
-git revert --abort = continous the revert process
+git revert --continue = continue the revert process
+git revert --abort = stops the revert process
 git stash
 git stash list
 git stash apply
