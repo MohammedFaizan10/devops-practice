@@ -19,8 +19,8 @@ git reset <id> --soft
 git reset <id> = mixed
 git reset <id> --hard 
 git rm --cached --filename
-git remote -v
-git remote add rigin <url>
+git remote -v  
+git remote add origin <url>
 git remote set-url origin https://TOKEN@github.com/usernmae/repo.git
 git push origin main
 git pull origin main
