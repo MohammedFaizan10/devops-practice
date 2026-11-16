@@ -32,7 +32,7 @@ git revert --abort
 git stash
 git stash list
 git stash apply
-git stash pop index-number
+git stash pop index-number = pops the specific stash
 git stash clear  = clears all stashes
 git cherry-pick <id> = always do form where you want changes
 git switch feature
